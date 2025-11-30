@@ -6,3 +6,6 @@ Git Tutorial
 3. git commit -m <message> - store the changes permanently.
 4. git restore --staged <filename> - remove the files from staging area.
 5. git log - show all the commits.
+6. git stash = Save work temporarily without committing it.
+7. git stash pop - remove work from stash to staging area.
+8. git stash clear - remove stash permanently.
