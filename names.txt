@@ -1,2 +1,8 @@
 Tarun Kumar
 Git Tutorial
+
+1. git status - shows all the files that are in staging area or also that are not in staging area.
+2. git add <filename> - Add the files to staging area
+3. git commit -m <message> - store the changes permanently.
+4. git restore --staged <filename> - remove the files from staging area.
+5. git log - show all the commits.
